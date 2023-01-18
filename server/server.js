@@ -13,7 +13,12 @@ const openai = new OpenAIApi(configuration);
 
 const app = express();
 app.use(express.json());
-app.use(cors());
+app.use(
+  cors({
+    credentials: true,
+    origin: "https://chatgpt-clone.vercel.app",
+  })
+);
 
 app.get("/", async (req, res) => {
   res.status(200).send({
