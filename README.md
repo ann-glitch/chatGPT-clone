@@ -15,4 +15,4 @@ yarn && yarn server (on the server side).
 
 ## .env file
 
-Replace the sample.env file in the config folder to config.env and replace the values with your own values.
+Replace the sample.env file to .env and replace the values with your own values.
