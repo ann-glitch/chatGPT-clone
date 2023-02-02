@@ -12,3 +12,7 @@ yarn && yarn server (on the server side).
 ---
 
 [Live Site](https://chatgpt-clone.vercel.app)
+
+## .env file
+
+Replace the sample.env file in the config folder to config.env and replace the values with your own values.
