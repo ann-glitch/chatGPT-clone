@@ -16,3 +16,5 @@ yarn && yarn server (on the server side).
 ## .env file
 
 Replace the sample.env file to .env and replace the values with your own values.
+
+P.S: SITE IS CURRENTLY DOWN CAUSE I HAVE EXHAUSTED MY FREE TRIAL ACCESS.
